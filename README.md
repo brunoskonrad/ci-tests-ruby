@@ -12,4 +12,5 @@ Use [Rspec](http://rspec.info/) for BDD test
 
 ## CI services building this repo
 
+- [CircleCI](https://circleci.com/gh/paulodiovani/ci-tests-ruby)
 - [Travis CI](https://travis-ci.org/paulodiovani/ci-tests-ruby)
